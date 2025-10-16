@@ -1,24 +1,22 @@
-# Global_Electronics_Retailer
+# Global Electronics Retailer Sales Analysis (Excel Project)
 
-Global Electronics Retailer Sales Analysis (Excel Project)
-
-Objective:
+## Objective:
 The goal of this project was to analyze historical sales data from a global electronics retailer to uncover trends, identify performance patterns, and highlight areas of growth and decline across product categories and store types.
 
 Tools Used:
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables and Pivot Charts
+- Pivot Tables and Pivot Charts
 
-Data Cleaning and Formatting
+- Data Cleaning and Formatting
 
-Trend Analysis and Visualization
+- Trend Analysis and Visualization
 
-Process:
+## Process:
 The dataset was first cleaned and prepared for analysis by handling missing values, standardizing category names, and ensuring date consistency. Pivot Tables were then created to analyze revenue by year, month, category, and store type. Pivot Charts were used to visualize trends and make year-over-year comparisons more intuitive.
 
-Key Insights:
+## Key Insights:
 
 Revenue Trends: Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
 
