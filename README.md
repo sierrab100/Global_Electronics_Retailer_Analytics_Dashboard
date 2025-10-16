@@ -16,6 +16,10 @@ Tools Used:
 ## Process:
 The dataset was first cleaned and prepared for analysis by handling missing values, standardizing category names, and ensuring date consistency. Pivot Tables were then created to analyze revenue by year, month, category, and store type. Pivot Charts were used to visualize trends and make year-over-year comparisons more intuitive.
 
+## Results:
+
+
+
 ## Key Insights:
 
 **Revenue Trends:** Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
