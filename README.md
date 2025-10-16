@@ -18,7 +18,7 @@ The dataset was first cleaned and prepared for analysis by handling missing valu
 
 ## Key Insights:
 
-**Revenue Trends:** Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
+**Revenue Trends:* Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
 
 **Seasonal Patterns:** Significant revenue dips consistently occurred in April each year, suggesting a recurring seasonal slowdown in sales.
 
