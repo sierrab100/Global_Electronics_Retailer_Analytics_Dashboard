@@ -31,3 +31,5 @@ The dataset was first cleaned and prepared for analysis by handling missing valu
 **Store Type Analysis:** The online store consistently outperformed physical store locations, bringing in significantly more revenue.
 
 **Sales Growth by Category:** Computers showed the greatest increase in sales up until 2019, reinforcing the category’s strong upward momentum prior to the 2020 revenue decline.
+
+## Recommendations:
