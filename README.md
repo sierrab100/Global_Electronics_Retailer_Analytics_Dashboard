@@ -47,8 +47,10 @@ Together, these linked tables form a star-schema-like structure, with sales serv
 
 **Store Type Analysis:** The online store consistently outperformed physical store locations, bringing in significantly more revenue.
 
-![My Image_4](images/Chart4.png)
+![My Image_4](images/Chart6.png)
 
 **Sales Growth by Category:** Computers showed the greatest increase in sales up until 2019, reinforcing the category’s strong upward momentum prior to the 2020 revenue decline.
+
+![My Image_4](images/Chart5.png)
 
 ## Recommendations
