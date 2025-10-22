@@ -1,6 +1,6 @@
 # Global Electronics Retailer Sales Analysis (Excel Project)
 
-## Objective:
+## Objective
 The goal of this project was to analyze historical sales data from a global electronics retailer to uncover trends, identify performance patterns, and highlight areas of growth and decline across product categories and store types.
 
 Tools Used:
@@ -17,7 +17,7 @@ Tools Used:
 
 ## Data Structure and Overview
 
-## Insights:
+## Insights
 
 **Revenue Trends:** Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
 
@@ -29,4 +29,4 @@ Tools Used:
 
 **Sales Growth by Category:** Computers showed the greatest increase in sales up until 2019, reinforcing the category’s strong upward momentum prior to the 2020 revenue decline.
 
-## Recommendations:
+## Recommendations
