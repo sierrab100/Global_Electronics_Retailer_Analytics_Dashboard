@@ -17,6 +17,20 @@ Tools Used:
 
 ## Data Structure and Overview
 
+This dataset represents a relational retail database designed to capture detailed information about customers, stores, products, sales transactions, and currency exchange rates for a global electronics retailer.
+
+The sales table is the central fact table, recording each customer purchase with order details, product information, quantities, currencies, and associated store locations. It connects to supporting dimension tables through foreign keys:
+
+- The customers table stores demographic and geographic information such as name, gender, city, state, country, and continent, enabling customer segmentation and regional sales analysis.
+
+- The stores table identifies retail locations where sales occur, including country, state, store size, and opening date, supporting analyses of store performance and geographic expansion.
+
+- The products table contains detailed product attributes such as brand, color, category, unit cost, and unit price, allowing profitability, product mix, and inventory analysis.
+
+- The exchange_rates table records daily conversion rates for multiple currencies, providing a mechanism to normalize global sales figures to a common base currency for accurate financial reporting.
+
+Together, these linked tables form a star-schema-like structure, with sales serving as the central hub connecting customer, product, store, and currency data. This schema supports comprehensive retail analytics — such as tracking revenue trends, evaluating store and product performance, monitoring international operations, and understanding customer purchasing behavior across regions.
+
 ## Insights
 
 **Revenue Trends:** Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
