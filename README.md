@@ -33,6 +33,14 @@ Together, these linked tables form a star-schema-like structure, with sales serv
 
 ## Insights
 
+![My Image_1](images/Chart1.png)
+
+![My Image_2](images/Chart2.png)
+
+![My Image_3](images/Chart3.png)
+
+![My Image_4](images/Chart4.png)
+
 **Revenue Trends:** Overall revenue showed a steady increase year over year until 2020, when there was a noticeable drop, likely linked to external market factors.
 
 **Seasonal Patterns:** Significant revenue dips consistently occurred in April each year, suggesting a recurring seasonal slowdown in sales.
